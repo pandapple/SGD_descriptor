@@ -106,7 +106,6 @@ Important keys:
 | `semantic_ratio_threshold` | Max. allowed semantic-ratio difference for single-label nodes |
 | `plane_node_sequence_similarity_threshold` | Similarity threshold for plane-node label sequences |
 | `icp_threshold` / `rough_dis_threshold` | Geometric verification / candidate selection |
-| `ablation_node_mode` | `0` both plane+instance, `1` plane only, `2` instance only |
 
 Tune outdoors / indoors mainly via `voxel_size` and triangle length limits. See comments inside the YAML for typical ranges.
 
