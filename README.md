@@ -68,6 +68,10 @@ KITTI_input/
   00/*.bin
   02/*.bin
   ...
+KITTI_refer/
+  00/*.bin
+  02/*.bin
+  ...
 KITTI_label/
   00/*.label
   02/*.label
