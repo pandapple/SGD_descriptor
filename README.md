@@ -1,4 +1,4 @@
-# Semantic-Geometric Graph Descriptor (SGD)
+# Semantic-Geometric Graph Descriptor (SGGD)
 
 <p align="center">
   <img src="sgd_demo.gif" alt="SGD demo" width="720"/>
