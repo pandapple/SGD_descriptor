@@ -80,7 +80,7 @@ poses/
 
 ### Test pairs for PR (no-prior reloc)
 
-We provide (or will provide) a fixed set of query–database pairs used for **place recognition / reloc PR without an initial pose**.
+We provide a small fixed set of query–database pairs used for test **place recognition / reloc PR without an initial pose**.
 
 - **Download (placeholder):** `[TODO: put public dataset / pair-list URL here]`
 
