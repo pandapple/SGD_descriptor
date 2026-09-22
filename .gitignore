@@ -1,0 +1,31 @@
+# Build
+build/
+devel/
+install/
+*.catkin_workspace
+.catkin_tools/
+
+# IDE / local
+.vscode/
+.idea/
+*.user
+compile_commands.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data & outputs (do not ship)
+raw/
+data/
+results/
+*.pcd
+*.bin
+*.label
+*.bag
+
+# OS
+.DS_Store
+Thumbs.db
