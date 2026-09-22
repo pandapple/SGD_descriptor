@@ -170,24 +170,6 @@ python3 visualize_loop_closure_single.py results/loop_00/loop_results.txt -o loo
 
 ---
 
-## Repository contents
-
-```text
-SGD_descriptor/
-├── include/sgd.h, utils.h          # Core API
-├── src/sgd.cpp, utils.cpp          # Core implementation
-├── s_evaluate_matches_triangular.cpp
-├── loop_closure_detection.cpp
-├── plot_pr_curve.py
-├── visualize_loop_closure*.py
-├── config/config_test.yaml
-├── sgd_demo.gif / match_example.jpg
-├── CMakeLists.txt / package.xml
-└── README.md
-```
-
----
-
 ## Citation
 
 If you use this code, please cite:
