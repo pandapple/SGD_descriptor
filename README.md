@@ -86,7 +86,7 @@ poses/
 
 We provide a small fixed set of query–database pairs used for test **place recognition / reloc PR without an initial pose**.
 
-- **Download (placeholder):** `[TODO: put public dataset / pair-list URL here]`
+- **Download (placeholder):** (https://drive.google.com/file/d/1qAzjRBzhWluM-z8ee-RjWkfEubzn1ELR/view?usp=sharing)
 
 After download, point the evaluation tool to your local folders as shown below.
 
